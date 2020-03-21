@@ -1,8 +1,8 @@
 # passwordGenerator
 
 Description:
-This program is designed to generate a random password, prompted with custom attributes by the user. 
 
-This was accomplished by dynamically adding input fields to the UI assign unique user values to each password. 
+This program is designed to demonstrate OOP to generate a user generated random password.
 
-check semantic 
+This was accomplished by dynamically adding input fields to the UI to allow for unique user inputs to unique password values. 
+
