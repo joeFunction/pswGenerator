@@ -46,7 +46,7 @@ The following image demonstrates the application functionality:
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
 
 ### Site Link
-  * [Budget App](https://joefunction.github.io/pswGenerator/)
+  * [Password App](https://joefunction.github.io/pswGenerator/)
 
 ### Contribution
  
